@@ -1,0 +1,17 @@
+# Java
+*.class
+
+# IDE y editor
+.vscode/
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporales y respaldos
+*.tmp
+*.bak
+*~

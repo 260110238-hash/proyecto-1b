@@ -8,10 +8,10 @@ Documentar y desarrollar en Java las soluciones de los dos problemas asignados a
 ## Integrantes
 | Nombre | Matrícula | Correo institucional | GitHub | Página personal |
 |---|---|---|---|---|
-| Francisco Xavier Herminio Agreda | Por completar | 260110238@itsoeh.edu.mx | [260110238-hash](https://github.com/260110238-hash) | Por publicar |
+| Francisco Xavier Herminio Agreda | 260110238 | 260110238@itsoeh.edu.mx | [260110238-hash](https://github.com/260110238-hash) | Por publicar |
 | Mario García Ortiz | Por completar | Por completar | Por completar | Por publicar |
-| Jorgue Luis Alvarado Sanchez | Por completar | Por completar | Por completar | Por publicar |
-| Aldo Gael Cruz Jimenez | Por completar | Por completar | Por completar | Por publicar |
+| Jorgue Luis Alvarado Sanchez | 260110273 | 260110273@itsoeh.edu.mx | Por completar | Por publicar |
+| Aldo Gael Cruz Jimenez | 260110694 | 260110694@itsoeh.edu.mx | Por completar | Por publicar |
 
 ## Entregables
 - [Página del proyecto](index.html)

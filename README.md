@@ -10,7 +10,7 @@ Documentar y desarrollar en Java las soluciones de los dos problemas asignados a
 |---|---|---|---|---|
 | Francisco Xavier Herminio Agreda | 260110238 | 260110238@itsoeh.edu.mx | [260110238-hash](https://github.com/260110238-hash) | Por publicar |
 | Mario García Ortiz | 260110644 | 260110644@itsoeh.edu.mx | [mario549L](https://github.com/mario549L) | Por publicar |
-| Jorgue Luis Alvarado Sanchez | 260110273 | 260110273@itsoeh.edu.mx | Por completar | Por publicar |
+| Jorgue Luis Alvarado Sanchez | 260110273 | 260110273@itsoeh.edu.mx | [jorgue-00714](https://github.com/jorgue-00714) | Por publicar |
 | Aldo Gael Cruz Jimenez | 260110694 | 260110694@itsoeh.edu.mx | Por completar | Por publicar |
 
 ## Entregables
